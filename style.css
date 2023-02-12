@@ -200,11 +200,11 @@ footer{
     font-family: 'Bree Serif', serif;
 }
 .contact-box .bttn{
-    padding: 6px 50px;
+    padding: 0px 50px;
     border:2px solid white;
     background-color: brown;
     color:white;
-    margin:20px ;
+    margin-left: 20px;
     font-size: 1.2rem;
     border-radius: 10px;
     cursor:pointer;
